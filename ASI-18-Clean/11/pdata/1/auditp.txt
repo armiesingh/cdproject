@@ -1,0 +1,56 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ D:/nmrdata/Wolfe Lab/data/nmr/nmr/ASI-18-Clean/11/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-08-22T19:36:25.854+0000>,<CZC24397WT\nmrsu>,<CZC24397WT>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+$$ D:/nmrdata/Wolfe Lab/data/nmr/nmr/ASI-18-Clean/11/audita.txt
+(   2,<2024-08-22T19:40:22.741+0000>,<CZC24397WT\nmrsu>,<CZC24397WT>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Avance' (CZC24397WT) by user 'CZC24397WT\nmrsu'
+       on data set with UUID 'd1ddacf8-60bd-11ef-ba8d-0030d62dd9dd'
+       started at 2024-08-22 19:36:25.854 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2024-08-22 19:40:22.740 +0000
+       configuration hash MD5:
+       02 77 B2 14 B2 D9 A2 72 44 35 7B 74 81 13 88 A8
+       double data hash MD5: 64K
+       1A A9 2E 8B 6F 76 FB 75 4A 08 BD CC F2 96 6B E4>)
+(   3,<2024-08-22T15:39:22.545-0400>,<nmrsu>,<CZC24397WT>,<xwish3>,<TopSpin 4.3.0>,
+      <ICON-NMR User ID: nmr
+       double data hash MD5: 64K
+       1A A9 2E 8B 6F 76 FB 75 4A 08 BD CC F2 96 6B E4>)
+(   4,<2024-08-22T15:39:26.889-0400>,<nmrsu/nmr>,<CZC24397WT>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       ef LB = 1 FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       E2 14 23 C7 8E D0 47 F0 FF 38 03 77 21 51 35 7F>)
+(   5,<2024-08-22T15:39:27.029-0400>,<nmrsu/nmr>,<CZC24397WT>,<proc1d>,<TopSpin 4.3.0>,
+      <apk 
+       data hash MD5: 32K
+       AF 56 0D 9B C6 9A 10 B5 79 5B 46 42 7A FE 6C FE>)
+(   6,<2024-08-22T15:39:27.140-0400>,<nmrsu/nmr>,<CZC24397WT>,<proc1d>,<TopSpin 4.3.0>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       30 6D 03 E5 F7 8F 80 2D 53 A8 F1 C3 44 7B BC BE>)
+(   7,<2024-08-22T15:39:27.296-0400>,<nmrsu/nmr>,<CZC24397WT>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       30 6D 03 E5 F7 8F 80 2D 53 A8 F1 C3 44 7B BC BE>)
+(   8,<2024-08-22T15:39:27.430-0400>,<nmrsu/nmr>,<CZC24397WT>,<xwish3>,<TopSpin 4.3.0>,
+      <ICON-NMR User ID: nmr
+       data hash MD5: 32K
+       30 6D 03 E5 F7 8F 80 2D 53 A8 F1 C3 44 7B BC BE>)
+$$ /Users/armaansingh/Desktop/ASI-18-Clean/11/pdata/1/auditp.txt
+(   9,<2024-08-23T10:56:57.206-0400>,<armaansingh>,<Armaans-MacBook-Pro.local>,<dataserver>,<TopSpin 4.4.0>,
+      <Start of interactive peak picking
+       data hash MD5: 32K
+       30 6D 03 E5 F7 8F 80 2D 53 A8 F1 C3 44 7B BC BE>)
+(  10,<2024-08-23T10:57:38.546-0400>,<armaansingh>,<Armaans-MacBook-Pro.local>,<dataserver>,<TopSpin 4.4.0>,
+      <Start of interactive peak picking
+       data hash MD5: 32K
+       30 6D 03 E5 F7 8F 80 2D 53 A8 F1 C3 44 7B BC BE>)
+##END=
+
+$$ hash MD5
+$$ 2A 78 7E 9C EC D4 1F 89 C6 3F 16 E7 00 99 95 B1

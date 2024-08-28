@@ -1,0 +1,108 @@
+REMARK   This PDB file was created by CS Chem3D.
+HETATM    1  C           1       6.461   0.553   0.167                      C 
+HETATM    2  C           1       5.652   1.640  -0.123                      C 
+HETATM    3  N           1       5.989  -0.670   0.493                      N 
+HETATM    4  C           1       4.646  -0.810   0.528                      C 
+HETATM    5  C           1       3.756   0.216   0.253                      C 
+HETATM    6  C           1       4.273   1.464  -0.079                      C 
+HETATM    7  C           1       2.278  -0.012   0.312                      C 
+HETATM    8  N           1       1.590   1.208  -0.015                      N 
+HETATM    9  C           1       0.178   0.946   0.053                      C 
+HETATM   10  C           1      -0.592   2.215  -0.286                      C 
+HETATM   11  N           1      -2.004   1.953  -0.218                      N 
+HETATM   12  C           1      -2.691   3.212  -0.555                      C 
+HETATM   13  C           1      -4.208   3.030  -0.774                      C 
+HETATM   14  N           1      -4.524   2.013  -1.792                      N 
+HETATM   15  C           1      -3.837   0.753  -1.455                      C 
+HETATM   16  C           1      -2.320   0.935  -1.236                      C 
+HETATM   17  C           1      -5.940   1.772  -1.718                      C 
+HETATM   18  S           1       3.967  -2.437   0.961                      S 
+HETATM   19  C           1       1.330  -3.046   1.119                      C 
+HETATM   20  C           1       1.865  -4.290   1.451                      C 
+HETATM   21  C           1       1.016  -5.360   1.735                      C 
+HETATM   22  C           1      -0.367  -5.186   1.686                      C 
+HETATM   23  C           1      -0.901  -3.941   1.354                      C 
+HETATM   24  C           1      -0.053  -2.871   1.070                      C 
+HETATM   25  C           1       2.240  -1.897   0.814                      C 
+HETATM   26  H           1       7.552   0.694   0.131                      H 
+HETATM   27  H           1       6.089   2.615  -0.383                      H 
+HETATM   28  H           1       3.599   2.303  -0.303                      H 
+HETATM   29  H           1       1.996  -0.803  -0.419                      H 
+HETATM   30  H           1       1.993  -0.335   1.338                      H 
+HETATM   31  H           1       1.835   1.928   0.665                      H 
+HETATM   32  H           1      -0.086   0.147  -0.675                      H 
+HETATM   33  H           1      -0.089   0.614   1.082                      H 
+HETATM   34  H           1      -0.328   3.014   0.442                      H 
+HETATM   35  H           1      -0.325   2.547  -1.315                      H 
+HETATM   36  H           1      -2.537   3.934   0.278                      H 
+HETATM   37  H           1      -2.258   3.583  -1.511                      H 
+HETATM   38  H           1      -4.672   2.723   0.190                      H 
+HETATM   39  H           1      -4.612   4.002  -1.138                      H 
+HETATM   40  H           1      -3.991   0.032  -2.289                      H 
+HETATM   41  H           1      -4.270   0.382  -0.500                      H 
+HETATM   42  H           1      -1.857   1.242  -2.200                      H 
+HETATM   43  H           1      -1.917  -0.036  -0.872                      H 
+HETATM   44  H           1      -6.226   1.005  -2.473                      H 
+HETATM   45  H           1      -6.488   2.718  -1.924                      H 
+HETATM   46  H           1      -6.201   1.405  -0.700                      H 
+HETATM   47  H           1       2.955  -4.428   1.490                      H 
+HETATM   48  H           1       1.438  -6.342   1.997                      H 
+HETATM   49  H           1      -1.036  -6.030   1.910                      H 
+HETATM   50  H           1      -1.992  -3.804   1.316                      H 
+HETATM   51  H           1      -0.475  -1.889   0.808                      H 
+HETATM   52  H           1       2.051  -1.539  -0.223                      H 
+HETATM   53  H           1       2.048  -1.070   1.534                      H 
+CONECT    1    2    3   26
+CONECT    2    1    6   27
+CONECT    3    1    4
+CONECT    4    3   18    5
+CONECT    5    4    7    6
+CONECT    6    2    5   28
+CONECT    7    5    8   29   30
+CONECT    8    7    9   31
+CONECT    9    8   10   32   33
+CONECT   10    9   11   34   35
+CONECT   11   10   12   16
+CONECT   12   11   13   36   37
+CONECT   13   12   14   38   39
+CONECT   14   13   17   15
+CONECT   15   14   16   40   41
+CONECT   16   11   15   42   43
+CONECT   17   14   44   45   46
+CONECT   18    4   25
+CONECT   19   25   20   24
+CONECT   20   19   21   47
+CONECT   21   20   22   48
+CONECT   22   21   23   49
+CONECT   23   22   24   50
+CONECT   24   19   23   51
+CONECT   25   18   19   52   53
+CONECT   26    1
+CONECT   27    2
+CONECT   28    6
+CONECT   29    7
+CONECT   30    7
+CONECT   31    8
+CONECT   32    9
+CONECT   33    9
+CONECT   34   10
+CONECT   35   10
+CONECT   36   12
+CONECT   37   12
+CONECT   38   13
+CONECT   39   13
+CONECT   40   15
+CONECT   41   15
+CONECT   42   16
+CONECT   43   16
+CONECT   44   17
+CONECT   45   17
+CONECT   46   17
+CONECT   47   20
+CONECT   48   21
+CONECT   49   22
+CONECT   50   23
+CONECT   51   24
+CONECT   52   25
+CONECT   53   25
+END

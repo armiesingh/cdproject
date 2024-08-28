@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2024-08-22T15:33:37.385-04:00" expNo="10" name="ASI-18-Clean" owner="" procNo="1" source="D:/nmrdata/Wolfe Lab/data/nmr/nmr">
+      <PeakPickDetails>F1=16.495680ppm, F2=-3.984349ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="5.327539" intensity="1.117875e+00" type="0"/>
+    <Peak1D F1="4.519310" intensity="1.381367e-01" type="0"/>
+    <Peak1D F1="3.944131" intensity="6.677286e-01" type="0"/>
+    <Peak1D F1="3.869449" intensity="5.825011e-01" type="0"/>
+    <Peak1D F1="3.787807" intensity="2.497772e-01" type="0"/>
+    <Peak1D F1="3.586025" intensity="2.409324e-01" type="0"/>
+    <Peak1D F1="3.412667" intensity="1.500000e+01" type="0"/>
+    <Peak1D F1="3.233477" intensity="2.328923e-01" type="0"/>
+  </PeakList1D>
+</PeakList>

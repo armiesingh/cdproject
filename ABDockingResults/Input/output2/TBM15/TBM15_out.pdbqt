@@ -1,0 +1,657 @@
+MODEL 1
+REMARK VINA RESULT:      -8.6      0.000      0.000
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  S_28 
+REMARK    2  A    between atoms: C_5  and  C_7 
+REMARK    3  A    between atoms: C_7  and  N_8 
+REMARK    4  A    between atoms: N_8  and  C_9 
+REMARK    5  A    between atoms: C_9  and  C_10 
+REMARK    6  A    between atoms: C_10  and  C_11 
+REMARK    7  A    between atoms: N_14  and  C_17 
+REMARK    8  A    between atoms: S_28  and  C_35 
+REMARK    9  A    between atoms: C_29  and  C_35 
+ROOT
+HETATM    1  C           1     175.506 185.491 272.297  0.00  0.00    -0.008 A 
+HETATM    2  C           1     176.051 184.759 271.253  0.00  0.00     0.130 A 
+HETATM    3  N           1     175.476 184.644 270.036  0.00  0.00    -0.253 NA
+HETATM    4  C           1     174.304 185.292 269.856  0.00  0.00     0.101 A 
+HETATM    5  C           1     173.683 186.049 270.838  0.00  0.00     0.006 A 
+HETATM    6  C           1     174.299 186.147 272.081  0.00  0.00     0.025 A 
+HETATM    7  C           1     176.125 185.566 273.479  0.00  0.00    -0.024 A 
+HETATM    8  C           1     175.690 184.779 274.546  0.00  0.00     0.014 A 
+HETATM    9  C           1     176.335 184.857 275.780  0.00  0.00     0.023 A 
+HETATM   10  C           1     177.419 185.720 275.947  0.00  0.00     0.044 A 
+HETATM   11  C           1     177.854 186.507 274.881  0.00  0.00     0.023 A 
+HETATM   12  C           1     177.209 186.429 273.647  0.00  0.00     0.014 A 
+HETATM   13  C           1     178.027 185.794 277.108  0.00  0.00     0.099 C 
+HETATM   14  N           1     178.563 185.858 278.133  0.00  0.00    -0.191 NA
+ENDROOT
+BRANCH   5  15
+HETATM   15  C           1     172.383 186.740 270.567  0.00  0.00     0.311 C 
+BRANCH  15  16
+HETATM   16  N           1     172.554 188.160 270.715  0.00  0.00     0.087 N 
+HETATM   17  H           1     173.517 188.360 270.985  0.00  0.00     0.316 HD
+BRANCH  16  18
+HETATM   18  C           1     171.663 188.602 271.753  0.00  0.00     0.270 C 
+BRANCH  18  19
+HETATM   19  C           1     172.410 189.527 272.704  0.00  0.00     0.034 C 
+BRANCH  19  20
+HETATM   20  C           1     172.429 188.916 274.099  0.00  0.00    -0.010 C 
+HETATM   21  C           1     171.479 187.723 274.136  0.00  0.00     0.035 C 
+HETATM   22  C           1     171.605 186.955 275.450  0.00  0.00     0.273 C 
+HETATM   23  N           1     172.985 186.537 275.696  0.00  0.00     0.093 N 
+HETATM   24  C           1     173.893 187.684 275.739  0.00  0.00     0.273 C 
+HETATM   25  C           1     173.852 188.478 274.434  0.00  0.00     0.035 C 
+BRANCH  23  26
+HETATM   26  C           1     172.989 185.927 276.999  0.00  0.00     0.223 C 
+HETATM   27  C           1     173.965 186.633 277.927  0.00  0.00     0.036 C 
+HETATM   28  C           1     173.394 186.453 279.333  0.00  0.00     0.002 C 
+HETATM   29  C           1     171.985 185.893 279.156  0.00  0.00     0.002 C 
+HETATM   30  C           1     171.649 186.114 277.690  0.00  0.00     0.036 C 
+ENDBRANCH  23  26
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+ENDBRANCH   5  15
+BRANCH   4  31
+HETATM   31  S           1     173.496 185.165 268.236  0.00  0.00    -0.105 SA
+BRANCH  31  32
+HETATM   32  C           1     174.623 186.344 267.441  0.00  0.00     0.119 C 
+BRANCH  32  33
+HETATM   33  C           1     174.014 187.712 267.465  0.00  0.00    -0.049 A 
+HETATM   34  C           1     174.739 188.790 267.972  0.00  0.00     0.008 A 
+HETATM   35  C           1     174.172 190.064 267.994  0.00  0.00     0.001 A 
+HETATM   36  C           1     172.878 190.259 267.511  0.00  0.00     0.000 A 
+HETATM   37  C           1     172.153 189.181 267.004  0.00  0.00     0.001 A 
+HETATM   38  C           1     172.720 187.907 266.981  0.00  0.00     0.008 A 
+ENDBRANCH  32  33
+ENDBRANCH  31  32
+ENDBRANCH   4  31
+TORSDOF 9
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -8.6      6.374     10.912
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  S_28 
+REMARK    2  A    between atoms: C_5  and  C_7 
+REMARK    3  A    between atoms: C_7  and  N_8 
+REMARK    4  A    between atoms: N_8  and  C_9 
+REMARK    5  A    between atoms: C_9  and  C_10 
+REMARK    6  A    between atoms: C_10  and  C_11 
+REMARK    7  A    between atoms: N_14  and  C_17 
+REMARK    8  A    between atoms: S_28  and  C_35 
+REMARK    9  A    between atoms: C_29  and  C_35 
+ROOT
+HETATM    1  C           1     171.675 189.351 281.127  0.00  0.00    -0.008 A 
+HETATM    2  C           1     170.847 188.926 280.099  0.00  0.00     0.130 A 
+HETATM    3  N           1     171.118 187.867 279.306  0.00  0.00    -0.253 NA
+HETATM    4  C           1     172.268 187.203 279.553  0.00  0.00     0.101 A 
+HETATM    5  C           1     173.159 187.552 280.558  0.00  0.00     0.006 A 
+HETATM    6  C           1     172.852 188.647 281.357  0.00  0.00     0.025 A 
+HETATM    7  C           1     171.350 190.409 281.878  0.00  0.00    -0.024 A 
+HETATM    8  C           1     171.949 191.645 281.637  0.00  0.00     0.014 A 
+HETATM    9  C           1     171.610 192.749 282.420  0.00  0.00     0.023 A 
+HETATM   10  C           1     170.671 192.616 283.443  0.00  0.00     0.044 A 
+HETATM   11  C           1     170.072 191.380 283.684  0.00  0.00     0.023 A 
+HETATM   12  C           1     170.411 190.276 282.900  0.00  0.00     0.014 A 
+HETATM   13  C           1     170.352 193.655 284.180  0.00  0.00     0.099 C 
+HETATM   14  N           1     170.070 194.571 284.830  0.00  0.00    -0.191 NA
+ENDROOT
+BRANCH   5  15
+HETATM   15  C           1     174.416 186.769 280.774  0.00  0.00     0.311 C 
+BRANCH  15  16
+HETATM   16  N           1     175.109 187.281 281.926  0.00  0.00     0.087 N 
+HETATM   17  H           1     175.853 187.909 281.623  0.00  0.00     0.316 HD
+BRANCH  16  18
+HETATM   18  C           1     175.679 186.162 282.625  0.00  0.00     0.270 C 
+BRANCH  18  19
+HETATM   19  C           1     174.678 185.014 282.650  0.00  0.00     0.034 C 
+BRANCH  19  20
+HETATM   20  C           1     174.076 184.894 284.044  0.00  0.00    -0.010 C 
+HETATM   21  C           1     175.144 185.225 285.081  0.00  0.00     0.035 C 
+HETATM   22  C           1     174.547 185.310 286.484  0.00  0.00     0.273 C 
+HETATM   23  N           1     173.444 186.269 286.539  0.00  0.00     0.093 N 
+HETATM   24  C           1     172.378 185.915 285.601  0.00  0.00     0.273 C 
+HETATM   25  C           1     172.896 185.853 284.165  0.00  0.00     0.035 C 
+BRANCH  23  26
+HETATM   26  C           1     172.904 186.177 287.870  0.00  0.00     0.223 C 
+HETATM   27  C           1     173.956 185.684 288.851  0.00  0.00     0.036 C 
+HETATM   28  C           1     173.577 186.299 290.198  0.00  0.00     0.002 C 
+HETATM   29  C           1     172.492 187.333 289.908  0.00  0.00     0.002 C 
+HETATM   30  C           1     172.539 187.550 288.405  0.00  0.00     0.036 C 
+ENDBRANCH  23  26
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+ENDBRANCH   5  15
+BRANCH   4  31
+HETATM   31  S           1     172.672 185.774 278.511  0.00  0.00    -0.105 SA
+BRANCH  31  32
+HETATM   32  C           1     173.244 186.789 277.120  0.00  0.00     0.119 C 
+BRANCH  32  33
+HETATM   33  C           1     174.589 186.309 276.670  0.00  0.00    -0.049 A 
+HETATM   34  C           1     175.745 186.812 277.266  0.00  0.00     0.008 A 
+HETATM   35  C           1     176.998 186.365 276.847  0.00  0.00     0.001 A 
+HETATM   36  C           1     177.094 185.414 275.832  0.00  0.00     0.000 A 
+HETATM   37  C           1     175.939 184.910 275.236  0.00  0.00     0.001 A 
+HETATM   38  C           1     174.685 185.357 275.655  0.00  0.00     0.008 A 
+ENDBRANCH  32  33
+ENDBRANCH  31  32
+ENDBRANCH   4  31
+TORSDOF 9
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -8.0      5.462     11.765
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  S_28 
+REMARK    2  A    between atoms: C_5  and  C_7 
+REMARK    3  A    between atoms: C_7  and  N_8 
+REMARK    4  A    between atoms: N_8  and  C_9 
+REMARK    5  A    between atoms: C_9  and  C_10 
+REMARK    6  A    between atoms: C_10  and  C_11 
+REMARK    7  A    between atoms: N_14  and  C_17 
+REMARK    8  A    between atoms: S_28  and  C_35 
+REMARK    9  A    between atoms: C_29  and  C_35 
+ROOT
+HETATM    1  C           1     172.726 189.419 282.377  0.00  0.00    -0.008 A 
+HETATM    2  C           1     173.639 189.282 283.412  0.00  0.00     0.130 A 
+HETATM    3  N           1     174.549 188.286 283.482  0.00  0.00    -0.253 NA
+HETATM    4  C           1     174.546 187.389 282.473  0.00  0.00     0.101 A 
+HETATM    5  C           1     173.674 187.444 281.396  0.00  0.00     0.006 A 
+HETATM    6  C           1     172.748 188.480 281.351  0.00  0.00     0.025 A 
+HETATM    7  C           1     171.849 190.428 282.365  0.00  0.00    -0.024 A 
+HETATM    8  C           1     170.528 190.208 282.753  0.00  0.00     0.014 A 
+HETATM    9  C           1     169.612 191.261 282.740  0.00  0.00     0.023 A 
+HETATM   10  C           1     170.019 192.534 282.341  0.00  0.00     0.044 A 
+HETATM   11  C           1     171.340 192.754 281.953  0.00  0.00     0.023 A 
+HETATM   12  C           1     172.256 191.701 281.966  0.00  0.00     0.014 A 
+HETATM   13  C           1     169.158 193.525 282.329  0.00  0.00     0.099 C 
+HETATM   14  N           1     168.398 194.399 282.319  0.00  0.00    -0.191 NA
+ENDROOT
+BRANCH   5  15
+HETATM   15  C           1     173.728 186.414 280.311  0.00  0.00     0.311 C 
+BRANCH  15  16
+HETATM   16  N           1     172.396 185.969 280.003  0.00  0.00     0.087 N 
+HETATM   17  H           1     172.161 185.168 280.591  0.00  0.00     0.316 HD
+BRANCH  16  18
+HETATM   18  C           1     172.375 185.574 278.622  0.00  0.00     0.270 C 
+BRANCH  18  19
+HETATM   19  C           1     173.547 186.217 277.892  0.00  0.00     0.034 C 
+BRANCH  19  20
+HETATM   20  C           1     173.625 185.669 276.473  0.00  0.00    -0.010 C 
+HETATM   21  C           1     173.040 186.694 275.507  0.00  0.00     0.035 C 
+HETATM   22  C           1     173.270 186.281 274.055  0.00  0.00     0.273 C 
+HETATM   23  N           1     174.688 186.050 273.781  0.00  0.00     0.093 N 
+HETATM   24  C           1     175.239 185.011 274.653  0.00  0.00     0.273 C 
+HETATM   25  C           1     175.082 185.378 276.128  0.00  0.00     0.035 C 
+BRANCH  23  26
+HETATM   26  C           1     174.758 185.567 272.428  0.00  0.00     0.223 C 
+HETATM   27  C           1     176.203 185.370 271.994  0.00  0.00     0.036 C 
+HETATM   28  C           1     176.168 184.245 270.961  0.00  0.00     0.002 C 
+HETATM   29  C           1     174.765 183.646 271.024  0.00  0.00     0.002 C 
+HETATM   30  C           1     174.164 184.174 272.316  0.00  0.00     0.036 C 
+ENDBRANCH  23  26
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+ENDBRANCH   5  15
+BRANCH   4  31
+HETATM   31  S           1     175.753 186.035 282.527  0.00  0.00    -0.105 SA
+BRANCH  31  32
+HETATM   32  C           1     174.495 184.757 282.807  0.00  0.00     0.119 C 
+BRANCH  32  33
+HETATM   33  C           1     174.004 184.839 284.220  0.00  0.00    -0.049 A 
+HETATM   34  C           1     174.892 184.655 285.279  0.00  0.00     0.008 A 
+HETATM   35  C           1     174.435 184.731 286.595  0.00  0.00     0.001 A 
+HETATM   36  C           1     173.089 184.992 286.850  0.00  0.00     0.000 A 
+HETATM   37  C           1     172.200 185.176 285.791  0.00  0.00     0.001 A 
+HETATM   38  C           1     172.657 185.099 284.475  0.00  0.00     0.008 A 
+ENDBRANCH  32  33
+ENDBRANCH  31  32
+ENDBRANCH   4  31
+TORSDOF 9
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -8.0      2.216      3.688
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  S_28 
+REMARK    2  A    between atoms: C_5  and  C_7 
+REMARK    3  A    between atoms: C_7  and  N_8 
+REMARK    4  A    between atoms: N_8  and  C_9 
+REMARK    5  A    between atoms: C_9  and  C_10 
+REMARK    6  A    between atoms: C_10  and  C_11 
+REMARK    7  A    between atoms: N_14  and  C_17 
+REMARK    8  A    between atoms: S_28  and  C_35 
+REMARK    9  A    between atoms: C_29  and  C_35 
+ROOT
+HETATM    1  C           1     175.307 185.446 272.226  0.00  0.00    -0.008 A 
+HETATM    2  C           1     175.852 184.683 271.205  0.00  0.00     0.130 A 
+HETATM    3  N           1     175.277 184.532 269.992  0.00  0.00    -0.253 NA
+HETATM    4  C           1     174.105 185.172 269.793  0.00  0.00     0.101 A 
+HETATM    5  C           1     173.483 185.957 270.752  0.00  0.00     0.006 A 
+HETATM    6  C           1     174.099 186.093 271.991  0.00  0.00     0.025 A 
+HETATM    7  C           1     175.926 185.556 273.406  0.00  0.00    -0.024 A 
+HETATM    8  C           1     175.492 184.801 274.495  0.00  0.00     0.014 A 
+HETATM    9  C           1     176.137 184.916 275.726  0.00  0.00     0.023 A 
+HETATM   10  C           1     177.220 185.785 275.868  0.00  0.00     0.044 A 
+HETATM   11  C           1     177.654 186.540 274.779  0.00  0.00     0.023 A 
+HETATM   12  C           1     177.009 186.425 273.548  0.00  0.00     0.014 A 
+HETATM   13  C           1     177.828 185.894 277.026  0.00  0.00     0.099 C 
+HETATM   14  N           1     178.364 185.989 278.048  0.00  0.00    -0.191 NA
+ENDROOT
+BRANCH   5  15
+HETATM   15  C           1     172.183 186.639 270.461  0.00  0.00     0.311 C 
+BRANCH  15  16
+HETATM   16  N           1     171.399 186.714 271.664  0.00  0.00     0.087 N 
+HETATM   17  H           1     170.691 185.979 271.655  0.00  0.00     0.316 HD
+BRANCH  16  18
+HETATM   18  C           1     170.757 188.000 271.688  0.00  0.00     0.270 C 
+BRANCH  18  19
+HETATM   19  C           1     171.237 188.829 270.505  0.00  0.00     0.034 C 
+BRANCH  19  20
+HETATM   20  C           1     171.873 190.117 271.011  0.00  0.00    -0.010 C 
+HETATM   21  C           1     170.899 190.823 271.948  0.00  0.00     0.035 C 
+HETATM   22  C           1     171.558 192.017 272.636  0.00  0.00     0.273 C 
+HETATM   23  N           1     172.777 191.622 273.343  0.00  0.00     0.093 N 
+HETATM   24  C           1     173.749 191.014 272.435  0.00  0.00     0.273 C 
+HETATM   25  C           1     173.171 189.782 271.740  0.00  0.00     0.035 C 
+BRANCH  23  26
+HETATM   26  C           1     173.353 192.839 273.850  0.00  0.00     0.223 C 
+HETATM   27  C           1     174.147 192.577 275.121  0.00  0.00     0.036 C 
+HETATM   28  C           1     175.243 193.642 275.144  0.00  0.00     0.002 C 
+HETATM   29  C           1     175.222 194.311 273.771  0.00  0.00     0.002 C 
+HETATM   30  C           1     174.395 193.387 272.891  0.00  0.00     0.036 C 
+ENDBRANCH  23  26
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+ENDBRANCH   5  15
+BRANCH   4  31
+HETATM   31  S           1     173.297 184.996 268.178  0.00  0.00    -0.105 SA
+BRANCH  31  32
+HETATM   32  C           1     174.442 186.128 267.340  0.00  0.00     0.119 C 
+BRANCH  32  33
+HETATM   33  C           1     173.898 187.522 267.397  0.00  0.00    -0.049 A 
+HETATM   34  C           1     174.657 188.544 267.966  0.00  0.00     0.008 A 
+HETATM   35  C           1     174.150 189.843 268.020  0.00  0.00     0.001 A 
+HETATM   36  C           1     172.883 190.118 267.504  0.00  0.00     0.000 A 
+HETATM   37  C           1     172.125 189.096 266.934  0.00  0.00     0.001 A 
+HETATM   38  C           1     172.632 187.797 266.881  0.00  0.00     0.008 A 
+ENDBRANCH  32  33
+ENDBRANCH  31  32
+ENDBRANCH   4  31
+TORSDOF 9
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.9      4.546      8.988
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  S_28 
+REMARK    2  A    between atoms: C_5  and  C_7 
+REMARK    3  A    between atoms: C_7  and  N_8 
+REMARK    4  A    between atoms: N_8  and  C_9 
+REMARK    5  A    between atoms: C_9  and  C_10 
+REMARK    6  A    between atoms: C_10  and  C_11 
+REMARK    7  A    between atoms: N_14  and  C_17 
+REMARK    8  A    between atoms: S_28  and  C_35 
+REMARK    9  A    between atoms: C_29  and  C_35 
+ROOT
+HETATM    1  C           1     175.571 185.464 272.144  0.00  0.00    -0.008 A 
+HETATM    2  C           1     174.478 186.242 271.794  0.00  0.00     0.130 A 
+HETATM    3  N           1     173.865 186.179 270.592  0.00  0.00    -0.253 NA
+HETATM    4  C           1     174.369 185.297 269.700  0.00  0.00     0.101 A 
+HETATM    5  C           1     175.456 184.477 269.958  0.00  0.00     0.006 A 
+HETATM    6  C           1     176.066 184.565 271.205  0.00  0.00     0.025 A 
+HETATM    7  C           1     176.133 185.574 273.352  0.00  0.00    -0.024 A 
+HETATM    8  C           1     177.311 186.304 273.509  0.00  0.00     0.014 A 
+HETATM    9  C           1     177.898 186.418 274.769  0.00  0.00     0.023 A 
+HETATM   10  C           1     177.306 185.804 275.873  0.00  0.00     0.044 A 
+HETATM   11  C           1     176.129 185.074 275.715  0.00  0.00     0.023 A 
+HETATM   12  C           1     175.541 184.959 274.455  0.00  0.00     0.014 A 
+HETATM   13  C           1     177.858 185.911 277.059  0.00  0.00     0.099 C 
+HETATM   14  N           1     178.346 186.007 278.105  0.00  0.00    -0.191 NA
+ENDROOT
+BRANCH   5  15
+HETATM   15  C           1     175.960 183.522 268.921  0.00  0.00     0.311 C 
+BRANCH  15  16
+HETATM   16  N           1     175.760 182.172 269.373  0.00  0.00     0.087 N 
+HETATM   17  H           1     176.489 181.927 270.044  0.00  0.00     0.316 HD
+BRANCH  16  18
+HETATM   18  C           1     175.853 181.309 268.227  0.00  0.00     0.270 C 
+BRANCH  18  19
+HETATM   19  C           1     175.440 182.077 266.978  0.00  0.00     0.034 C 
+BRANCH  19  20
+HETATM   20  C           1     176.200 181.537 265.774  0.00  0.00    -0.010 C 
+HETATM   21  C           1     177.196 182.590 265.297  0.00  0.00     0.035 C 
+HETATM   22  C           1     178.119 182.030 264.217  0.00  0.00     0.273 C 
+HETATM   23  N           1     178.808 180.822 264.674  0.00  0.00     0.093 N 
+HETATM   24  C           1     177.858 179.778 265.061  0.00  0.00     0.273 C 
+HETATM   25  C           1     176.926 180.256 266.174  0.00  0.00     0.035 C 
+BRANCH  23  26
+HETATM   26  C           1     179.553 180.338 263.543  0.00  0.00     0.223 C 
+HETATM   27  C           1     179.448 181.301 262.370  0.00  0.00     0.036 C 
+HETATM   28  C           1     180.748 181.130 261.584  0.00  0.00     0.002 C 
+HETATM   29  C           1     181.672 180.288 262.461  0.00  0.00     0.002 C 
+HETATM   30  C           1     181.041 180.312 263.844  0.00  0.00     0.036 C 
+ENDBRANCH  23  26
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+ENDBRANCH   5  15
+BRANCH   4  31
+HETATM   31  S           1     173.576 185.180 268.073  0.00  0.00    -0.105 SA
+BRANCH  31  32
+HETATM   32  C           1     174.640 186.444 267.322  0.00  0.00     0.119 C 
+BRANCH  32  33
+HETATM   33  C           1     173.957 187.775 267.387  0.00  0.00    -0.049 A 
+HETATM   34  C           1     172.654 187.914 266.912  0.00  0.00     0.008 A 
+HETATM   35  C           1     172.017 189.154 266.972  0.00  0.00     0.001 A 
+HETATM   36  C           1     172.686 190.255 267.507  0.00  0.00     0.000 A 
+HETATM   37  C           1     173.990 190.116 267.982  0.00  0.00     0.001 A 
+HETATM   38  C           1     174.626 188.876 267.922  0.00  0.00     0.008 A 
+ENDBRANCH  32  33
+ENDBRANCH  31  32
+ENDBRANCH   4  31
+TORSDOF 9
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -7.7      3.208      8.112
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  S_28 
+REMARK    2  A    between atoms: C_5  and  C_7 
+REMARK    3  A    between atoms: C_7  and  N_8 
+REMARK    4  A    between atoms: N_8  and  C_9 
+REMARK    5  A    between atoms: C_9  and  C_10 
+REMARK    6  A    between atoms: C_10  and  C_11 
+REMARK    7  A    between atoms: N_14  and  C_17 
+REMARK    8  A    between atoms: S_28  and  C_35 
+REMARK    9  A    between atoms: C_29  and  C_35 
+ROOT
+HETATM    1  C           1     175.643 185.518 272.192  0.00  0.00    -0.008 A 
+HETATM    2  C           1     174.520 186.257 271.854  0.00  0.00     0.130 A 
+HETATM    3  N           1     173.918 186.198 270.646  0.00  0.00    -0.253 NA
+HETATM    4  C           1     174.464 185.362 269.737  0.00  0.00     0.101 A 
+HETATM    5  C           1     175.584 184.582 269.982  0.00  0.00     0.006 A 
+HETATM    6  C           1     176.182 184.665 271.234  0.00  0.00     0.025 A 
+HETATM    7  C           1     176.193 185.621 273.406  0.00  0.00    -0.024 A 
+HETATM    8  C           1     177.338 186.397 273.590  0.00  0.00     0.014 A 
+HETATM    9  C           1     177.912 186.504 274.856  0.00  0.00     0.023 A 
+HETATM   10  C           1     177.340 185.838 275.940  0.00  0.00     0.044 A 
+HETATM   11  C           1     176.195 185.062 275.757  0.00  0.00     0.023 A 
+HETATM   12  C           1     175.621 184.955 274.490  0.00  0.00     0.014 A 
+HETATM   13  C           1     177.880 185.939 277.133  0.00  0.00     0.099 C 
+HETATM   14  N           1     178.356 186.029 278.185  0.00  0.00    -0.191 NA
+ENDROOT
+BRANCH   5  15
+HETATM   15  C           1     176.134 183.676 268.925  0.00  0.00     0.311 C 
+BRANCH  15  16
+HETATM   16  N           1     175.972 182.307 269.333  0.00  0.00     0.087 N 
+HETATM   17  H           1     176.886 181.857 269.385  0.00  0.00     0.316 HD
+BRANCH  16  18
+HETATM   18  C           1     175.168 181.647 268.341  0.00  0.00     0.270 C 
+BRANCH  18  19
+HETATM   19  C           1     176.073 181.010 267.295  0.00  0.00     0.034 C 
+BRANCH  19  20
+HETATM   20  C           1     175.675 181.502 265.910  0.00  0.00    -0.010 C 
+HETATM   21  C           1     174.301 182.158 265.986  0.00  0.00     0.035 C 
+HETATM   22  C           1     173.939 182.842 264.670  0.00  0.00     0.273 C 
+HETATM   23  N           1     174.962 183.807 264.268  0.00  0.00     0.093 N 
+HETATM   24  C           1     176.270 183.169 264.116  0.00  0.00     0.273 C 
+HETATM   25  C           1     176.719 182.499 265.414  0.00  0.00     0.035 C 
+BRANCH  23  26
+HETATM   26  C           1     174.561 184.296 262.975  0.00  0.00     0.223 C 
+HETATM   27  C           1     173.956 183.181 262.136  0.00  0.00     0.036 C 
+HETATM   28  C           1     172.958 183.866 261.204  0.00  0.00     0.002 C 
+HETATM   29  C           1     172.815 185.300 261.708  0.00  0.00     0.002 C 
+HETATM   30  C           1     173.426 185.296 263.101  0.00  0.00     0.036 C 
+ENDBRANCH  23  26
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+ENDBRANCH   5  15
+BRANCH   4  31
+HETATM   31  S           1     173.687 185.251 268.101  0.00  0.00    -0.105 SA
+BRANCH  31  32
+HETATM   32  C           1     174.686 186.593 267.396  0.00  0.00     0.119 C 
+BRANCH  32  33
+HETATM   33  C           1     173.890 187.861 267.392  0.00  0.00    -0.049 A 
+HETATM   34  C           1     174.428 189.024 267.941  0.00  0.00     0.008 A 
+HETATM   35  C           1     173.686 190.206 267.937  0.00  0.00     0.001 A 
+HETATM   36  C           1     172.405 190.222 267.386  0.00  0.00     0.000 A 
+HETATM   37  C           1     171.867 189.059 266.837  0.00  0.00     0.001 A 
+HETATM   38  C           1     172.608 187.877 266.840  0.00  0.00     0.008 A 
+ENDBRANCH  32  33
+ENDBRANCH  31  32
+ENDBRANCH   4  31
+TORSDOF 9
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -7.5      3.231      8.346
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  S_28 
+REMARK    2  A    between atoms: C_5  and  C_7 
+REMARK    3  A    between atoms: C_7  and  N_8 
+REMARK    4  A    between atoms: N_8  and  C_9 
+REMARK    5  A    between atoms: C_9  and  C_10 
+REMARK    6  A    between atoms: C_10  and  C_11 
+REMARK    7  A    between atoms: N_14  and  C_17 
+REMARK    8  A    between atoms: S_28  and  C_35 
+REMARK    9  A    between atoms: C_29  and  C_35 
+ROOT
+HETATM    1  C           1     175.846 183.640 267.718  0.00  0.00    -0.008 A 
+HETATM    2  C           1     176.616 184.238 268.703  0.00  0.00     0.130 A 
+HETATM    3  N           1     176.193 184.436 269.970  0.00  0.00    -0.253 NA
+HETATM    4  C           1     174.943 184.016 270.265  0.00  0.00     0.101 A 
+HETATM    5  C           1     174.099 183.407 269.348  0.00  0.00     0.006 A 
+HETATM    6  C           1     174.563 183.218 268.051  0.00  0.00     0.025 A 
+HETATM    7  C           1     176.323 183.472 266.480  0.00  0.00    -0.024 A 
+HETATM    8  C           1     175.943 184.346 265.462  0.00  0.00     0.014 A 
+HETATM    9  C           1     176.440 184.171 264.170  0.00  0.00     0.023 A 
+HETATM   10  C           1     177.320 183.124 263.898  0.00  0.00     0.044 A 
+HETATM   11  C           1     177.701 182.250 264.916  0.00  0.00     0.023 A 
+HETATM   12  C           1     177.203 182.425 266.208  0.00  0.00     0.014 A 
+HETATM   13  C           1     177.789 182.959 262.683  0.00  0.00     0.099 C 
+HETATM   14  N           1     178.203 182.814 261.610  0.00  0.00    -0.191 NA
+ENDROOT
+BRANCH   5  15
+HETATM   15  C           1     172.725 182.967 269.746  0.00  0.00     0.311 C 
+BRANCH  15  16
+HETATM   16  N           1     171.830 183.120 268.630  0.00  0.00     0.087 N 
+HETATM   17  H           1     172.372 183.252 267.776  0.00  0.00     0.316 HD
+BRANCH  16  18
+HETATM   18  C           1     171.024 184.285 268.873  0.00  0.00     0.270 C 
+BRANCH  18  19
+HETATM   19  C           1     171.023 185.169 267.634  0.00  0.00     0.034 C 
+BRANCH  19  20
+HETATM   20  C           1     171.867 186.410 267.894  0.00  0.00    -0.010 C 
+HETATM   21  C           1     172.193 186.492 269.381  0.00  0.00     0.035 C 
+HETATM   22  C           1     173.197 187.606 269.668  0.00  0.00     0.273 C 
+HETATM   23  N           1     174.413 187.450 268.870  0.00  0.00     0.093 N 
+HETATM   24  C           1     174.117 187.449 267.436  0.00  0.00     0.273 C 
+HETATM   25  C           1     173.147 186.327 267.068  0.00  0.00     0.035 C 
+BRANCH  23  26
+HETATM   26  C           1     175.222 188.607 269.148  0.00  0.00     0.223 C 
+HETATM   27  C           1     174.610 189.859 268.537  0.00  0.00     0.036 C 
+HETATM   28  C           1     175.049 191.011 269.440  0.00  0.00     0.002 C 
+HETATM   29  C           1     175.667 190.372 270.682  0.00  0.00     0.002 C 
+HETATM   30  C           1     175.238 188.914 270.635  0.00  0.00     0.036 C 
+ENDBRANCH  23  26
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+ENDBRANCH   5  15
+BRANCH   4  31
+HETATM   31  S           1     174.334 184.262 271.956  0.00  0.00    -0.105 SA
+BRANCH  31  32
+HETATM   32  C           1     175.332 185.753 272.233  0.00  0.00     0.119 C 
+BRANCH  32  33
+HETATM   33  C           1     175.974 185.681 273.584  0.00  0.00    -0.049 A 
+HETATM   34  C           1     175.313 185.051 274.638  0.00  0.00     0.008 A 
+HETATM   35  C           1     175.911 184.983 275.897  0.00  0.00     0.001 A 
+HETATM   36  C           1     177.170 185.547 276.100  0.00  0.00     0.000 A 
+HETATM   37  C           1     177.831 186.177 275.047  0.00  0.00     0.001 A 
+HETATM   38  C           1     177.234 186.244 273.788  0.00  0.00     0.008 A 
+ENDBRANCH  32  33
+ENDBRANCH  31  32
+ENDBRANCH   4  31
+TORSDOF 9
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -7.5      2.823      7.549
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  S_28 
+REMARK    2  A    between atoms: C_5  and  C_7 
+REMARK    3  A    between atoms: C_7  and  N_8 
+REMARK    4  A    between atoms: N_8  and  C_9 
+REMARK    5  A    between atoms: C_9  and  C_10 
+REMARK    6  A    between atoms: C_10  and  C_11 
+REMARK    7  A    between atoms: N_14  and  C_17 
+REMARK    8  A    between atoms: S_28  and  C_35 
+REMARK    9  A    between atoms: C_29  and  C_35 
+ROOT
+HETATM    1  C           1     173.331 186.053 279.622  0.00  0.00    -0.008 A 
+HETATM    2  C           1     172.399 185.334 278.889  0.00  0.00     0.130 A 
+HETATM    3  N           1     172.372 185.299 277.539  0.00  0.00    -0.253 NA
+HETATM    4  C           1     173.318 186.015 276.894  0.00  0.00     0.101 A 
+HETATM    5  C           1     174.291 186.764 277.540  0.00  0.00     0.006 A 
+HETATM    6  C           1     174.293 186.781 278.930  0.00  0.00     0.025 A 
+HETATM    7  C           1     173.305 186.047 280.959  0.00  0.00    -0.024 A 
+HETATM    8  C           1     172.756 187.127 281.651  0.00  0.00     0.014 A 
+HETATM    9  C           1     172.730 187.121 283.045  0.00  0.00     0.023 A 
+HETATM   10  C           1     173.249 186.034 283.748  0.00  0.00     0.044 A 
+HETATM   11  C           1     173.797 184.954 283.057  0.00  0.00     0.023 A 
+HETATM   12  C           1     173.824 184.960 281.662  0.00  0.00     0.014 A 
+HETATM   13  C           1     173.224 186.027 285.061  0.00  0.00     0.099 C 
+HETATM   14  N           1     173.201 186.022 286.219  0.00  0.00    -0.191 NA
+ENDROOT
+BRANCH   5  15
+HETATM   15  C           1     175.310 187.534 276.760  0.00  0.00     0.311 C 
+BRANCH  15  16
+HETATM   16  N           1     176.545 186.798 276.723  0.00  0.00     0.087 N 
+HETATM   17  H           1     177.116 187.051 277.530  0.00  0.00     0.316 HD
+BRANCH  16  18
+HETATM   18  C           1     177.233 187.160 275.514  0.00  0.00     0.270 C 
+BRANCH  18  19
+HETATM   19  C           1     177.265 185.965 274.570  0.00  0.00     0.034 C 
+BRANCH  19  20
+HETATM   20  C           1     176.854 186.410 273.173  0.00  0.00    -0.010 C 
+HETATM   21  C           1     176.046 185.299 272.510  0.00  0.00     0.035 C 
+HETATM   22  C           1     175.444 185.766 271.187  0.00  0.00     0.273 C 
+HETATM   23  N           1     174.635 186.972 271.362  0.00  0.00     0.093 N 
+HETATM   24  C           1     175.424 188.068 271.926  0.00  0.00     0.273 C 
+HETATM   25  C           1     176.024 187.687 273.278  0.00  0.00     0.035 C 
+BRANCH  23  26
+HETATM   26  C           1     174.219 187.366 270.042  0.00  0.00     0.223 C 
+HETATM   27  C           1     174.766 188.740 269.687  0.00  0.00     0.036 C 
+HETATM   28  C           1     174.923 188.737 268.167  0.00  0.00     0.002 C 
+HETATM   29  C           1     174.724 187.291 267.718  0.00  0.00     0.002 C 
+HETATM   30  C           1     174.831 186.461 268.987  0.00  0.00     0.036 C 
+ENDBRANCH  23  26
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+ENDBRANCH   5  15
+BRANCH   4  31
+HETATM   31  S           1     173.318 185.997 275.080  0.00  0.00    -0.105 SA
+BRANCH  31  32
+HETATM   32  C           1     171.859 187.067 274.943  0.00  0.00     0.119 C 
+BRANCH  32  33
+HETATM   33  C           1     172.215 188.301 274.173  0.00  0.00    -0.049 A 
+HETATM   34  C           1     173.020 189.279 274.756  0.00  0.00     0.008 A 
+HETATM   35  C           1     173.351 190.429 274.039  0.00  0.00     0.001 A 
+HETATM   36  C           1     172.876 190.600 272.738  0.00  0.00     0.000 A 
+HETATM   37  C           1     172.071 189.622 272.155  0.00  0.00     0.001 A 
+HETATM   38  C           1     171.740 188.472 272.872  0.00  0.00     0.008 A 
+ENDBRANCH  32  33
+ENDBRANCH  31  32
+ENDBRANCH   4  31
+TORSDOF 9
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -7.3      3.287      8.163
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  S_28 
+REMARK    2  A    between atoms: C_5  and  C_7 
+REMARK    3  A    between atoms: C_7  and  N_8 
+REMARK    4  A    between atoms: N_8  and  C_9 
+REMARK    5  A    between atoms: C_9  and  C_10 
+REMARK    6  A    between atoms: C_10  and  C_11 
+REMARK    7  A    between atoms: N_14  and  C_17 
+REMARK    8  A    between atoms: S_28  and  C_35 
+REMARK    9  A    between atoms: C_29  and  C_35 
+ROOT
+HETATM    1  C           1     175.934 184.000 267.380  0.00  0.00    -0.008 A 
+HETATM    2  C           1     176.791 184.510 268.343  0.00  0.00     0.130 A 
+HETATM    3  N           1     176.402 184.845 269.593  0.00  0.00    -0.253 NA
+HETATM    4  C           1     175.097 184.661 269.891  0.00  0.00     0.101 A 
+HETATM    5  C           1     174.166 184.157 268.996  0.00  0.00     0.006 A 
+HETATM    6  C           1     174.597 183.821 267.718  0.00  0.00     0.025 A 
+HETATM    7  C           1     176.381 183.687 266.160  0.00  0.00    -0.024 A 
+HETATM    8  C           1     176.161 184.557 265.092  0.00  0.00     0.014 A 
+HETATM    9  C           1     176.627 184.230 263.818  0.00  0.00     0.023 A 
+HETATM   10  C           1     177.316 183.035 263.613  0.00  0.00     0.044 A 
+HETATM   11  C           1     177.537 182.165 264.681  0.00  0.00     0.023 A 
+HETATM   12  C           1     177.071 182.492 265.954  0.00  0.00     0.014 A 
+HETATM   13  C           1     177.755 182.727 262.415  0.00  0.00     0.099 C 
+HETATM   14  N           1     178.143 182.457 261.357  0.00  0.00    -0.191 NA
+ENDROOT
+BRANCH   5  15
+HETATM   15  C           1     172.735 183.979 269.397  0.00  0.00     0.311 C 
+BRANCH  15  16
+HETATM   16  N           1     171.891 184.114 268.240  0.00  0.00     0.087 N 
+HETATM   17  H           1     172.461 184.055 267.395  0.00  0.00     0.316 HD
+BRANCH  16  18
+HETATM   18  C           1     171.260 185.403 268.306  0.00  0.00     0.270 C 
+BRANCH  18  19
+HETATM   19  C           1     171.905 186.337 267.290  0.00  0.00     0.034 C 
+BRANCH  19  20
+HETATM   20  C           1     172.446 187.569 268.003  0.00  0.00    -0.010 C 
+HETATM   21  C           1     171.899 187.604 269.427  0.00  0.00     0.035 C 
+HETATM   22  C           1     172.561 188.709 270.248  0.00  0.00     0.273 C 
+HETATM   23  N           1     174.018 188.577 270.247  0.00  0.00     0.093 N 
+HETATM   24  C           1     174.559 188.620 268.887  0.00  0.00     0.273 C 
+HETATM   25  C           1     173.971 187.511 268.017  0.00  0.00     0.035 C 
+BRANCH  23  26
+HETATM   26  C           1     174.521 189.725 270.954  0.00  0.00     0.223 C 
+HETATM   27  C           1     175.740 190.305 270.253  0.00  0.00     0.036 C 
+HETATM   28  C           1     175.729 191.797 270.582  0.00  0.00     0.002 C 
+HETATM   29  C           1     174.375 192.084 271.227  0.00  0.00     0.002 C 
+HETATM   30  C           1     173.520 190.866 270.919  0.00  0.00     0.036 C 
+ENDBRANCH  23  26
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+ENDBRANCH   5  15
+BRANCH   4  31
+HETATM   31  S           1     174.531 185.099 271.559  0.00  0.00    -0.105 SA
+BRANCH  31  32
+HETATM   32  C           1     176.098 185.890 272.020  0.00  0.00     0.119 C 
+BRANCH  32  33
+HETATM   33  C           1     176.306 185.765 273.498  0.00  0.00    -0.049 A 
+HETATM   34  C           1     177.459 186.283 274.086  0.00  0.00     0.008 A 
+HETATM   35  C           1     177.653 186.166 275.463  0.00  0.00     0.001 A 
+HETATM   36  C           1     176.693 185.529 276.250  0.00  0.00     0.000 A 
+HETATM   37  C           1     175.540 185.010 275.661  0.00  0.00     0.001 A 
+HETATM   38  C           1     175.346 185.128 274.284  0.00  0.00     0.008 A 
+ENDBRANCH  32  33
+ENDBRANCH  31  32
+ENDBRANCH   4  31
+TORSDOF 9
+ENDMDL

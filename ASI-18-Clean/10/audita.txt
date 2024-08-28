@@ -1,0 +1,26 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ /root/.topspin-BladeEpu/local_acqu/ASI-18-Clean/10/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-08-22T19:33:01.555+0000>,<CZC24397WT\nmrsu>,<CZC24397WT>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+$$ D:/nmrdata/Wolfe Lab/data/nmr/nmr/ASI-18-Clean/10/audita.txt
+(   2,<2024-08-22T19:34:35.418+0000>,<CZC24397WT\nmrsu>,<CZC24397WT>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Avance' (CZC24397WT) by user 'CZC24397WT\nmrsu'
+       on data set with UUID '58194f08-60bd-11ef-8796-0030d62dd9dd'
+       started at 2024-08-22 19:33:01.555 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2024-08-22 19:34:35.417 +0000
+       configuration hash MD5:
+       02 77 B2 14 B2 D9 A2 72 44 35 7B 74 81 13 88 A8
+       double data hash MD5: 64K
+       A1 AC 27 45 30 EF 27 60 69 AA DC C8 91 3D 29 EA>)
+(   3,<2024-08-22T15:33:35.226-0400>,<nmrsu>,<CZC24397WT>,<xwish3>,<TopSpin 4.3.0>,
+      <ICON-NMR User ID: nmr
+       double data hash MD5: 64K
+       A1 AC 27 45 30 EF 27 60 69 AA DC C8 91 3D 29 EA>)
+##END=
+
+$$ hash MD5
+$$ 32 B3 57 25 65 8C 81 95 25 3B 27 57 04 F8 6E C2

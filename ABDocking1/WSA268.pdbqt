@@ -1,0 +1,56 @@
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_5  and  S_19 
+REMARK    2  A    between atoms: C_6  and  C_8 
+REMARK    3  A    between atoms: C_8  and  N_9 
+REMARK    4  A    between atoms: N_9  and  C_10 
+REMARK    5  A    between atoms: C_10  and  C_11 
+REMARK    6  A    between atoms: C_11  and  N_12 
+REMARK    7  A    between atoms: S_19  and  C_26 
+REMARK    8  A    between atoms: C_20  and  C_26 
+ROOT
+HETATM    1  C           1       6.461   0.553   0.167  0.00  0.00     0.089 A 
+HETATM    2  C           1       5.652   1.640  -0.123  0.00  0.00     0.018 A 
+HETATM    3  N           1       5.989  -0.670   0.493  0.00  0.00    -0.360 N 
+ATOM      4  HN          1       6.615  -1.448   0.702  1.00  0.00     0.166 HD
+HETATM    5  C           1       4.646  -0.810   0.528  0.00  0.00     0.077 A 
+HETATM    6  C           1       3.756   0.216   0.253  0.00  0.00     0.003 A 
+HETATM    7  C           1       4.273   1.464  -0.079  0.00  0.00     0.013 A 
+ENDROOT
+BRANCH   6   8
+HETATM    8  C           1       2.278  -0.012   0.312  0.00  0.00     0.307 C 
+BRANCH   8   9
+HETATM    9  N           1       1.590   1.208  -0.015  0.00  0.00     0.089 N 
+HETATM   10  H           1       1.835   1.928   0.665  0.00  0.00     0.316 HD
+BRANCH   9  11
+HETATM   11  C           1       0.178   0.946   0.053  0.00  0.00     0.300 C 
+BRANCH  11  12
+HETATM   12  C           1      -0.592   2.215  -0.286  0.00  0.00     0.302 C 
+BRANCH  12  13
+HETATM   13  N           1      -2.004   1.953  -0.218  0.00  0.00     0.093 N 
+HETATM   14  C           1      -2.691   3.212  -0.555  0.00  0.00     0.302 C 
+HETATM   15  C           1      -4.208   3.030  -0.774  0.00  0.00     0.302 C 
+HETATM   16  N           1      -4.524   2.013  -1.792  0.00  0.00     0.087 N 
+HETATM   17  C           1      -5.940   1.772  -1.718  0.00  0.00     0.310 C 
+HETATM   18  C           1      -3.837   0.753  -1.455  0.00  0.00     0.302 C 
+HETATM   19  C           1      -2.320   0.935  -1.236  0.00  0.00     0.302 C 
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   6   8
+BRANCH   5  20
+HETATM   20  S           1       3.967  -2.437   0.961  0.00  0.00    -0.107 SA
+BRANCH  20  21
+HETATM   21  C           1       2.240  -1.897   0.814  0.00  0.00     0.122 C 
+BRANCH  21  22
+HETATM   22  C           1       1.330  -3.046   1.119  0.00  0.00    -0.049 A 
+HETATM   23  C           1       1.865  -4.290   1.451  0.00  0.00     0.008 A 
+HETATM   24  C           1       1.016  -5.360   1.735  0.00  0.00     0.001 A 
+HETATM   25  C           1      -0.367  -5.186   1.686  0.00  0.00     0.000 A 
+HETATM   26  C           1      -0.901  -3.941   1.354  0.00  0.00     0.001 A 
+HETATM   27  C           1      -0.053  -2.871   1.070  0.00  0.00     0.008 A 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+ENDBRANCH   5  20
+TORSDOF 8
